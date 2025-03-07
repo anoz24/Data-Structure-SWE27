@@ -11,17 +11,27 @@ Welcome to the collaborative repository for our Data Structures lab and lecture!
 * **`.gitignore`**:
     * Specifies files and directories that Git should ignore (e.g., build artifacts, IDE-specific files).
 
+## Resources
+
+This section contains links and materials that can aid in your learning.
+
+* **Textbook:** "ADTs, Data Structures, and Problem Solving with C++" by Larry Nyhoff, 2nd Edition.
+    * [PDF Version](https://drive.google.com/file/d/1xHZOOA0S-1TJ3LhQN3cAajcEhsxuTXtd/view?usp=drive_link)
+* **Online Resources:**
+    * [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/)
+* **Slides:** [Link](https://drive.google.com/drive/folders/1MvuxF5a3Zw-jgA8HGJOQf5Or3m4C6rat?usp=drive_link)
+
 ## Data Structure Tracking
 
 | Data Structure | Lecture Folder | Section Folder | Status      |
-| :------------- | :------------- | :--------- | :---------- |
-| Arrays         | `01_Arrays/`   | `...`      |    In Progress   |
-| Lists          | `02_List/`     | `04_Lists/` | In Progress |
+| :------------- | :------------- | :------------- | :---------- |
+| Arrays         | `01_Arrays/`   | `...`          | In Progress |
+| Lists          | `02_List/`     | `04_Lists/`    | In Progress |
 | Linked Lists   | `03_List/`     | `05_Linked-Lists/` | In Progress |
-| Stacks         | `...`          | `...`      | Planned     |
-| Queues         | `...`          | `...`      | Planned     |
-| Trees          | `...`          | `...`      | Planned     |
-| Graphs         | `...`          | `...`      | Planned     |
+| Stacks         | `...`          | `...`          | Planned     |
+| Queues         | `...`          | `...`          | Planned     |
+| Trees          | `...`          | `...`          | Planned     |
+| Graphs         | `...`          | `...`          | Planned     |
 
 **Status Key:**
 
