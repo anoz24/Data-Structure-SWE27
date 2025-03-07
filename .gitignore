@@ -1,0 +1,17 @@
+*.o
+*.depend
+*.exe
+*.out
+*.obj
+*.dll
+*.lib
+*.pdb
+*.cbp
+*.layout
+.vscode/
+.qodo
+.idea/
+build/
+bin/
+Debug/
+Release/
