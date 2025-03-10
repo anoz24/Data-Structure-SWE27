@@ -25,10 +25,9 @@ This section contains links and materials that can aid in your learning.
 
 | Data Structure | Lecture Folder | Section Folder | Status      |
 | :------------- | :------------- | :------------- | :---------- |
-| Arrays         | `01_Arrays/`   | `...`          | In Progress |
-| Lists          | `02_List/`     | `04_Lists/`    | In Progress |
-| Linked Lists   | `03_List/`     | `05_Linked-Lists/` | In Progress |
-| Stacks         | `...`          | `...`          | Planned     |
+| Lists          | `01_List/`     | `04_Lists/`    | In Progress |
+| Linked Lists   | `02_Linked-List/`| `05_Linked-Lists/` | In Progress |
+| Stacks         | `03_Stacks`    | `...`          | In Progress |
 | Queues         | `...`          | `...`          | Planned     |
 | Trees          | `...`          | `...`          | Planned     |
 | Graphs         | `...`          | `...`          | Planned     |
@@ -44,7 +43,7 @@ This section contains links and materials that can aid in your learning.
 1.  **Clone the Repository:**
     * Use the following command to clone the repository to your local machine:
         ```bash
-        git clone [https://github.com/anoz24/Data-Structure-SWE27.git](https://github.com/anoz24/Data-Structure-SWE27.git)
+        git clone https://github.com/anoz24/Data-Structure-SWE27.git
         ```
 2.  **Navigate the Repository:**
     * Explore the `Lectures/`, and `Section/` directories to find the materials you need.
