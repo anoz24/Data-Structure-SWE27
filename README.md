@@ -45,7 +45,7 @@ This section provides links to practice questions organized by data structure to
 * [MCQs on Stacks with Answers](https://www.careerride.com/view/mcqs-on-stacks-with-answers-19629.aspx)
 * [Stack Multiple Choice Questions](https://testbook.com/objective-questions/mcq-on-stack--626fa3e3f8420ab92121b037)
 
-<!-- ### Queues
+### Queues
 * [GeeksforGeeks Queue Practice Questions](https://www.geeksforgeeks.org/data-structure-gq/queue-gq/)
 * [MCQs on Queue with Answers](https://www.careerride.com/view/mcqs-on-queue-with-answers-19633.aspx)
 
@@ -61,7 +61,7 @@ This section provides links to practice questions organized by data structure to
 * [GeeksforGeeks Balanced Binary Search Trees](https://www.geeksforgeeks.org/data-structure-gq/balanced-binary-search-trees-gq/)
 * [Practice Questions on Height-Balanced/AVL Tree](https://www.geeksforgeeks.org/practice-questions-height-balancedavl-tree/)
 * [Data Structure Questions & Answers on AVL Tree](https://www.sanfoundry.com/data-structure-questions-answers-avl-tree/)
-* [MCQ on AVL Tree](https://testbook.com/objective-questions/mcq-on-avl-tree--5eea6a1139140f30f369eb9d) -->
+* [MCQ on AVL Tree](https://testbook.com/objective-questions/mcq-on-avl-tree--5eea6a1139140f30f369eb9d)
 
 ## Data Structure Tracking
 
